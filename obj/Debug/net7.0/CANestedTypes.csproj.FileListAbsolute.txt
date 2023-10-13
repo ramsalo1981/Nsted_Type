@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CANestedTypes\bin\Debug\net7.0\CANestedTypes.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CANestedTypes\bin\Debug\net7.0\CANestedTypes.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CANestedTypes\bin\Debug\net7.0\CANestedTypes.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CANestedTypes\bin\Debug\net7.0\CANestedTypes.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CANestedTypes\bin\Debug\net7.0\CANestedTypes.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CANestedTypes\obj\Debug\net7.0\CANestedTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CANestedTypes\obj\Debug\net7.0\CANestedTypes.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CANestedTypes\obj\Debug\net7.0\CANestedTypes.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CANestedTypes\obj\Debug\net7.0\CANestedTypes.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CANestedTypes\obj\Debug\net7.0\CANestedTypes.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CANestedTypes\obj\Debug\net7.0\refint\CANestedTypes.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CANestedTypes\obj\Debug\net7.0\CANestedTypes.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CANestedTypes\obj\Debug\net7.0\CANestedTypes.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CANestedTypes\obj\Debug\net7.0\ref\CANestedTypes.dll
